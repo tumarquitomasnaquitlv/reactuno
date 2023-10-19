@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/reactuno/static/css/main.073c9b0a.css",
-    "main.js": "/reactuno/static/js/main.5abab04b.js",
+    "main.css": "/reactuno/static/css/main.ae412dbb.css",
+    "main.js": "/reactuno/static/js/main.d7005584.js",
     "static/js/787.cc4e593a.chunk.js": "/reactuno/static/js/787.cc4e593a.chunk.js",
-    "static/media/logo.svg": "/reactuno/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/reactuno/index.html",
-    "main.073c9b0a.css.map": "/reactuno/static/css/main.073c9b0a.css.map",
-    "main.5abab04b.js.map": "/reactuno/static/js/main.5abab04b.js.map",
+    "main.ae412dbb.css.map": "/reactuno/static/css/main.ae412dbb.css.map",
+    "main.d7005584.js.map": "/reactuno/static/js/main.d7005584.js.map",
     "787.cc4e593a.chunk.js.map": "/reactuno/static/js/787.cc4e593a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5abab04b.js"
+    "static/css/main.ae412dbb.css",
+    "static/js/main.d7005584.js"
   ]
 }
