@@ -1,25 +1,14 @@
-import logo from './logo.svg';
+import React from 'react'
+import AppForm from './Components/AppForm'
 import './App.css';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit by Marco Zegarra :v <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{background:"yellow", width:"350px", padding:"10px"}}>
+      <AppForm/>
+      <i class="large material-icons">insert_chart</i>
     </div>
   );
 }
 
-export default App;
+export default App
